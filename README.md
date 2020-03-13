@@ -4,7 +4,7 @@ Neste artigo eu ensino como fazer seu aplicativo falar usando o plugin Text To S
 
 
 ## Artigo no IonicClub.com
-- [Como fazer meu aplicativo falar](https://ionicclub.com/como-fazer-meu-aplicativo-falar/)
+- [Como fazer meu aplicativo falar](https://ionicclub.com.br/como-fazer-meu-aplicativo-falar/)
 
 
 # VEJA TAMBÉM
